@@ -1,0 +1,41 @@
+body {
+    background: #0e0e0e;
+    color: #00ffa2;
+    font-family: monospace;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    background: #1c1c1c;
+    border: 1px solid #00ffa2;
+    color: #00ffa2;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    background: #00ffa2;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #00cc7a;
+  }
+  
+  .note {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #bbb;
+  }
+  
